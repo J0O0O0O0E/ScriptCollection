@@ -7,7 +7,9 @@ https://www.moerats.com/archives/571/
 https://www.j000e.com/Nextcloud/cloud-drive-direct-sharelink.html
 
 # 下载
+```
 wget --no-check-certificate -qO /usr/local/bin/gdlink 'https://www.moerats.com/usr/shell/gdlink.sh' && chmod a+x /usr/local/bin/gdlink
+```
 # 使用
 ```
 #Work with share link/使用分享链接方式
